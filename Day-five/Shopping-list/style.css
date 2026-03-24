@@ -1,0 +1,22 @@
+.shopping {
+  margin-top: 20px;
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+  width: 300px;
+  color: white;
+}
+
+#itemList li {
+  margin-top: 10px;
+  background: #334155;
+  padding: 8px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.remove {
+  color: #ef4444;
+  cursor: pointer;
+}
