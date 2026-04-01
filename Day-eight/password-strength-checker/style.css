@@ -1,0 +1,9 @@
+.password-checker {
+  margin-top: 20px;
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+  width: 300px;
+  color: white;
+  text-align: center;
+}
