@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #020617;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.expense-app {
+  background: #1e293b;
+  padding: 25px;
+  border-radius: 12px;
+  width: 320px;
+  color: white;
+  text-align: center;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 8px;
+  border: none;
+  background: #0f172a;
+  color: white;
+}
+
+button {
+  padding: 10px;
+  width: 100%;
+  margin-top: 5px;
+  border-radius: 8px;
+  border: none;
+  background: #22c55e;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #16a34a;
+}
+
+li {
+  margin-top: 10px;
+  background: #334155;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete {
+  color: #ef4444;
+  cursor: pointer;
+}
