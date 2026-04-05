@@ -1,0 +1,16 @@
+.movie-app {
+  margin-top: 20px;
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+  width: 320px;
+  color: white;
+  text-align: center;
+}
+
+.movie {
+  margin-top: 10px;
+  background: #334155;
+  padding: 10px;
+  border-radius: 8px;
+}
